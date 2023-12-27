@@ -3,4 +3,4 @@
 
 # Wiring Diagram for ESP8266
 
-[/png/4x7SegmentDice-WiringDiagram.png]
+![/png/4x7SegmentDice-WiringDiagram.png]
