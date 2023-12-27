@@ -1,4 +1,4 @@
-[!Important]
+> [!Important]
 > I used an external Timer libraby created by Simon Monk.
 > This library can be found on the website [here](http://srmonk.blogspot.com/2012/01/arduino-timer-library.html) or directly on [GitHub](https://github.com/JChristensen/Timer).
 
@@ -15,7 +15,7 @@ Using the selection button will scroll you throught the 4, 6, 8, 10, 12 and 20 n
 Using the randomizer button will show you a random number every time.
 
 > [!Note]
-> All dices will show you the value between 1 and the value you set. But the `D10` will show you values between 0-9!
+> All dices will show you the value between 1 and the value you set. But the Dice 10 will show you values between 0-9!
 
 ## Components
 - Wemos D1 Mini NodeMCU
@@ -26,8 +26,7 @@ Using the randomizer button will show you a random number every time.
 - Wiring cables
 
 ## Wiring Diagrams
-> [!Note]
-> The original wiring diagram is for the D1 Mini NodeMCU but i included one for an "normal" ESP8266.
+The original wiring diagram is for the D1 Mini NodeMCU but i included one for an "normal" ESP8266.
 
 - [ESP8266](/png/ESP8266-WiringDiagram.png)
 - [Wemos D1 Mini](/png/WemosD1Mini-WiringDiagram.png)
