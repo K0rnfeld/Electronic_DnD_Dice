@@ -30,7 +30,7 @@ Using the randomizer button will show you a random number every time.
 - Wiring cables
 
 > [!Note]
-> You may also need more different resistors based on what segment display you are using and have to put them inbetween the MCU and the segment display.
+> You may also need more different resistors based on what segment display you are using and you'd have to put them inbetween the MCU and the segment display.
 
 # Wiring Diagrams
 The original wiring diagram is for the D1 Mini NodeMCU but i included one for an "normal" ESP8266 (Though i am currently not sure if the diagram for the ESP8266 is correct).
