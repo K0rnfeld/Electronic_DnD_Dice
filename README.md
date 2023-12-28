@@ -6,7 +6,7 @@
 
 # Info
 I used this project to simulate all DnD dices on an 4x7 Segment display.
-Therefore the D1 Mini NodeMCU simulates all the dices and the buttons let you choose which dice and when to role.
+Therefore the D1 Mini NodeMCU simulates all the dices and the buttons let you choose which dice you want to use and when to role.
 
 I used a Wemos D1 Mini NodeMCU Board for this project because i wanted a small Microcontroller and had some of them lying around. I didn't even used the wifi capabilities. But you could essentialy also use other Boards like an Arduino Nano. You'd just have to change the GPIO pins in code.
 
