@@ -14,7 +14,7 @@ I used a `Wemos D1 Mini NodeMCU` Board for this project because i wanted a small
 The 4x7 segment display shows on the left two digits the kind of dice the board is simulating and on the two right digits the randomized number.
 One button scrolls throught the selection of the dices and the other one randomizes the number.
 
-Using the selection button will scroll you throught the 4, 6, 8, 10, 12 and 20 number dices.
+Using the selection button will scroll you throught the dice of `4`, `6`, `8`, `10`, `12` and `20`.
 
 Using the randomizer button will show you a random number every time.
 
