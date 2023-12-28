@@ -2,7 +2,7 @@
 > By all means i am not an expert in electronics or programming so please be advised to be careful and cautious when using this reference.
 
 > [!Important]
-> I used an external Timer library created by `Simon Monk`. This library can be found on the website [here](http://srmonk.blogspot.com/2012/01/arduino-timer-library.html) or directly on GitHub [here](https://github.com/JChristensen/Timer).
+> I used an external library created by `Simon Monk`. This library can be found on the website [here](http://srmonk.blogspot.com/2012/01/arduino-timer-library.html) or directly on GitHub [here](https://github.com/JChristensen/Timer).
 
 # Info
 I used this project to simulate all DnD dices on an 4x7 segment display.
