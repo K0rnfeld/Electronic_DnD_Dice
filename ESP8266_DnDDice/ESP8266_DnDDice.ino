@@ -66,7 +66,7 @@ void ClearDisplay(void);
 Timer t;  //Timer.h library variable
 
 uint8_t modeCount = 0;  //Counter for mode selction
-uint8_t digit[4] = {0}; //Buffer for Digits
+uint8_t digit[4] = {0}; //Buffer for Digits that will be shown
 
 const uint8_t digPins[4] = {DIG1, DIG2, DIG3, DIG4};  //Array for corresponding DIG1-DIG4 Pin numbers
 const uint8_t numbers[21] = {NUM_0, NUM_1, NUM_2, NUM_3, NUM_4, NUM_5, NUM_6, NUM_7, NUM_8, NUM_9, DOT_0, DOT_1, DOT_2, DOT_3, DOT_4, DOT_5, DOT_6, DOT_7, DOT_8, DOT_9, NUM_OFF}; //Array for numbers
@@ -231,7 +231,7 @@ void GetRandomNumber(void)
 
 
 /**
-* @brief  Resets all LEDs
+* @brief  Resets the Segment Display
 */
 void ClearDisplay(void)
 {

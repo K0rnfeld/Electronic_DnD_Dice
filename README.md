@@ -22,13 +22,16 @@ Using the randomizer button will show you a random number every time.
 # Components
 - Wemos D1 Mini NodeMCU
 - 74HC595 Shiftregister
-- 4x7 Segment Display (with 12 pins)
+- 4x7 Segment Display (Common Anode with 12 pins)
 - 2x Push Buttons
 - 2x 10.000 Ohm Resistors
 - Wiring cables
 
-# Wiring Diagrams
-The original wiring diagram is for the D1 Mini NodeMCU but i included one for an "normal" ESP8266 (Though i am currently not sure if the digram for the ESP8266 is correct. Use with caution!).
+> [!Note]
+> You may also need more different resistors based on what Segment Display you are using.
 
-- [ESP8266](/png/ESP8266-WiringDiagram.png)
-- [Wemos D1 Mini](/png/WemosD1Mini-WiringDiagram.png)
+# Wiring Diagrams
+The original wiring diagram is for the D1 Mini NodeMCU but i included one for an "normal" ESP8266 (Though i am currently not sure if the digram for the ESP8266 is correct).
+
+- [ESP8266](/pictures/ESP8266-WiringDiagram.png)
+- [Wemos D1 Mini](/pictures/WemosD1Mini-WiringDiagram.png)
